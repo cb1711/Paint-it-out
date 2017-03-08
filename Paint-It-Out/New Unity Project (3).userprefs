@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\addforcetoall.cs">
+    <Files>
+      <File FileName="Assets\addforcetoall.cs" Line="21" Column="36" />
+      <File FileName="Assets\sceneLoad.cs" Line="1" Column="1" />
+      <File FileName="Assets\scoreR.cs" Line="1" Column="1" />
+      <File FileName="Assets\quitScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\stopper.cs" Line="1" Column="1" />
+      <File FileName="Assets\countdown.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
